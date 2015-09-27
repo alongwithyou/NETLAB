@@ -1,7 +1,8 @@
 #define _CRT_SECURE_NO_WARNINGS
 #define _CRT_SECURE_NO_DEPRECATE
 
-// CPU version
+// CPU version for training
+// annotation by Gao Xinglong
 #include "nnet-inl.hpp"
 
 namespace layernet {
